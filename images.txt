@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #kuboard-spray
 eipwork/kuboard-spray:latest-amd64
+#kuboardv3
+eipwork/kuboard:v3
